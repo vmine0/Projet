@@ -1,3 +1,7 @@
-# Projet
-Mes projets effectué durant ma licence d'informatique à l'université Paris-saclay.
-Mon pc m'ayant laché et l'université Paris-Saclay ayant subi un hack à la fin de ma licence je n'est pas pu recupere l'integralité de mes projets uniquement des sauvegard que j'ai pu recuper dna smon cloud ce sont mes projets mais pour certain ce ne sont pas les rendu finaux mais au moins vous pouvez avoir un apercu de ce que j'ai entrepris durant ma licence.
+🎓 Projets de Licence Informatique
+Bienvenue sur ce dépôt regroupant les travaux réalisés durant ma Licence d'Informatique à l'Université Paris-Saclay.
+
+⚠️ Note Importante
+Suite à une panne matérielle majeure et à une cyberattaque ayant touché les serveurs de l'Université Paris-Saclay en fin de cursus, je n'ai pas pu récupérer l'intégralité de mes rendus définitifs.
+
+Les projets présentés ici sont issus de sauvegardes Cloud personnelles. Bien que certains ne soient pas les versions finales déposées lors des examens, ils offrent un aperçu concret des technologies abordées et de mon investissement durant ma formation.

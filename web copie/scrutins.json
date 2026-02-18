@@ -1,0 +1,1 @@
+[{"date":"2024-04-11 15:09:31","id":"6617fd2b72de2","email":"david@hotmail.fr","question":"1+1","options":["2","4","6"],"votants":[{"nom":"david@hotmail.fr","vote_possible":0},{"nom":"amine@hotmail.fr","vote_possible":1}],"vote_attendu":3,"nb_vote":2,"votes":{"2":0,"4":2,"6":0},"aVote":["david@hotmail.fr","amine@hotmail.fr"],"ouvert":false}]

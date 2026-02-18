@@ -1,0 +1,26 @@
+{
+    "amine@hotmail.fr": {
+        "email": "amine@hotmail.fr",
+        "mdp": "$2y$10$FKoFYljeTvnNUZkvB\/30y.GBnFL7qm0TbG.3fGiZFr6wWmAI1Icp.",
+        "scrutins_crees": [],
+        "scrutins_votes": [
+            "6617fd2b72de2"
+        ]
+    },
+    "amine2@hotmail.fr": {
+        "email": "amine2@hotmail.fr",
+        "mdp": "$2y$10$Por6MWXd.mNCPyQQ3jyiqeJkiD4ipMXoJJ6BX.wy\/rl.5a3wX29F6",
+        "scrutins_crees": [],
+        "scrutins_votes": []
+    },
+    "david@hotmail.fr": {
+        "email": "david@hotmail.fr",
+        "mdp": "$2y$10$uuNGRsB77.tTvrkC2mOAwOFWHW6gC\/Kvd5g.Oag3fSvIQXrxT4D.q",
+        "scrutins_crees": [
+            "6617fd2b72de2"
+        ],
+        "scrutins_votes": [
+            "6617fd2b72de2"
+        ]
+    }
+}

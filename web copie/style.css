@@ -1,0 +1,108 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0d6efd; /* Bleu Bootstrap */
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #ffffff;
+}
+
+.container, main {
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: #bbbbbb;
+}
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #0d6efd; /* Bleu Bootstrap */
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
+input:hover {
+    background: #0b5ed7;
+}
+
+input:active {
+    background: #0a58ca;
+}
+
+#pollsList {
+    width: 100%;
+    margin-top: 30px;
+}
+
+@media (max-width: 600px) {
+    .inputs {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+.res {
+    background-color: #121212;
+    padding: 20px; /* Espacement intérieur */
+    border-radius: 10px; /* Bords arrondis */
+    width: 100%; /* Largeur */
+    margin: right; /* Centrer la div */
+    font-size: 1.2em; /* Taille de la police */
+    border: 2px solid #0d6efd; /* Contour */
+}
+
+.mesScrutins {
+    background-color: #121212;
+    padding: 20px; /* Espacement intérieur */
+    border-radius: 10px; /* Bords arrondis */
+    width: 200px; /* Largeur */
+    margin: right; /* Centrer la div */
+    font-size: 1.2em; /* Taille de la police */
+    border: 2px solid #0d6efd; /* Contour */
+}
+
+.mesScrutins button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background: #0d6efd; /* Rouge Bootstrap */
+    color: #fff;
+    cursor: pointer;
+    font-size: 8px;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
